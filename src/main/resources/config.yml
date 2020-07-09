@@ -1,0 +1,136 @@
+cannon:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7cannon_bp"
+trebuchet:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7trebuchet_bp"
+ballista:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7balliste_bp"
+catapult:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7katapult_bp"
+ram:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7rammbock_bp"
+camp:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7belagerungscamp_bp"
+smallWall:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7schutzmauer_bp"
+tower:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7belagerungsturm_bp"
+ladder:
+  name: "§6Blaupause"
+  lore:
+    - "§9Typ: §7sturmleiter_bp"
+upgrade:
+  name: "§5Aufwertung"
+  lore:
+    - "§aWertet einen Gegenstand auf"
+cannonBarrel:
+  name: "§bKanonenrohr"
+  lore:
+    - "§7Bestandteil einer Kanone"
+igniter:
+  name: "§bZünder"
+  lore:
+    - "§7Bestandteil einer Kanone"
+woodenWheel:
+  name: "§bHolzrad"
+  lore:
+    - "§7Ein hölzernes Rad"
+stoneWheel:
+  name: "§bSteinrad"
+  lore:
+    - "§7Ein steinerndes Rad"
+elasticWood:
+  name: "§bElastisches Holz"
+  lore:
+    - "§7Biegsamer als gewöhnliches Holz"
+tensionWood:
+  name: "§bSpannholz"
+  lore:
+    - "§7Hält enorme Spannung aus"
+stableWood:
+  name: "§bStabiles Holz"
+  lore:
+    - "§7Stabiler als gewöhnliches Holz"
+heavyWood:
+  name: "§bSchweres Holz"
+  lore:
+    - "§7Massiver und stabiler als gewöhnliches Holz"
+shadowWood:
+  name: "§bSchattenholz"
+  lore:
+    - "§7Das Stabilste aller Hölzer"
+stableString:
+  name: "§bStabiler Faden"
+  lore:
+    - "§7Stabiler als gewöhnliche Fäden"
+shadowWool:
+  name: "§bSchattenwolle"
+  lore:
+    - "§7Spezielle Wolle"
+sideWingWood:
+  name: "§bSeitenflügelholz"
+  lore:
+    - "§7Eignet sich zum spannen"
+standardCannonBall:
+  name: "§2Kanonenkugel"
+  lore:
+    - "§6Munitionsart: §7Standard"
+    - "§b-> §7Kanone"
+toxicCannonBall:
+  name: "§2Gift-Kanonenkugel"
+  lore:
+    - "§6Munitionsart: §7Gift"
+    - "§b-> §7Kanone"
+spreadCannonBall:
+  name: "§2Mehrschuss-Kanonenkugel"
+  lore:
+    - "§6Munitionsart: §7Schrot"
+    - "§b-> §7Kanone"
+standardCatapultBall:
+  name: "§2Stein-Geschoss"
+  lore:
+    - "§6Munitionsart: §7Standard"
+    - "§b-> §7Trebuchet"
+    - "§b-> §7Katapult"
+toxicCatapultBall:
+  name: "§2Gift-Geschoss"
+  lore:
+    - "§6Munitionsart: §7Gift"
+    - "§b-> §7Trebuchet"
+    - "§b-> §7Katapult"
+spreadCatapultBall:
+  name: "§2Splittergeschoss"
+  lore:
+    - "§6Munitionsart: §7Schrot"
+    - "§b-> §7Trebuchet"
+    - "§b-> §7Katapult"
+standardBallistaBolt:
+  name: "§2Ballisten-Bolzen"
+  lore:
+    - "§6Munitionsart: §7Standard"
+    - "§b-> §7Balliste"
+toxicBallistaBolt:
+  name: "§2Gift-Bolzen"
+  lore:
+    - "§6Munitionsart: §7Gift"
+    - "§b-> §7Balliste"
+spreadBallistaBolt:
+  name: "§2Ballisten-Streuschuss"
+  lore:
+    - "§6Munitionsart: §7Schrot"
+    - "§b-> §7Balliste"

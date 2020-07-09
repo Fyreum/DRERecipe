@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfd2c83f-3681-4b0b-b1ee-4bff7bd42731" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DRERecipe" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DRERecipe" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DRERecipe" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="server" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TQHYZ8fcXApuySOdkYZmvBSHIG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.fyreum.mgmenu.commands" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.fyreum.dreshipsV2.main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.fyreum.dreships.main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sharkoon Gaming\IdeaProjects\mgmenuV2\src\main\java" />
+      <recent name="C:\Users\Sharkoon Gaming\IdeaProjects\mgmenuV2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.drerecipe [deploy]">
+    <configuration name="drerecipe [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="drerecipe [deploy]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deploy" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="JarApplication">
+      <option name="JAR_PATH" value="E:/Desktop/spigot 1.13.2/paper-1.13.2.jar" />
+      <option name="WORKING_DIRECTORY" value="E:\Desktop\spigot 1.13.2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.drerecipe [build]" />
+      <item itemvalue="Gradle.drerecipe [deploy]" />
+      <item itemvalue="JAR Application.server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.drerecipe [deploy]" />
+        <item itemvalue="Gradle.drerecipe [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd2c83f-3681-4b0b-b1ee-4bff7bd42731" name="Default Changelist" comment="" />
+      <created>1573385446223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573385446223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Inspections" timestamp="1588098961388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Inspections/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1588098961388" />
+    <state x="552" y="198" key="#Plugins" timestamp="1587502757871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Plugins/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1587502757871" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588454118334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1588454118334" />
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586078450350">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586078450350" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1593106920575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593106920575" />
+    <state x="690" y="316" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586030344338">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="316" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586030344338" />
+    <state x="756" y="425" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589184043071">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="425" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1589184043071" />
+    <state x="756" y="446" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586030346899">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="446" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586030346899" />
+    <state x="709" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586037686337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586037686337" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588789073842">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1588789073842" />
+    <state x="690" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586119337571">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586119337571" />
+    <state x="646" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593106925786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="646" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593106925786" />
+    <state x="638" y="281" key="FileChooserDialogImpl" timestamp="1593107519057">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="638" y="281" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593107519057" />
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom" timestamp="1593112685229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593112685229" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366262" />
+    <state width="1877" height="306" key="GridCell.Tab.0.center" timestamp="1593112685229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593112685229" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366262" />
+    <state width="1877" height="306" key="GridCell.Tab.0.left" timestamp="1593112685229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593112685229" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366262" />
+    <state width="1877" height="306" key="GridCell.Tab.0.right" timestamp="1593112685229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593112685229" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366262" />
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom" timestamp="1590344642325">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1590344642325" />
+    <state width="1877" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366263" />
+    <state width="1877" height="378" key="GridCell.Tab.1.center" timestamp="1590344642324">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1590344642324" />
+    <state width="1877" height="378" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366263" />
+    <state width="1877" height="378" key="GridCell.Tab.1.left" timestamp="1590344642324">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1590344642324" />
+    <state width="1877" height="378" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366263" />
+    <state width="1877" height="378" key="GridCell.Tab.1.right" timestamp="1590344642325">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1590344642325" />
+    <state width="1877" height="378" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590343366263" />
+    <state x="333" y="117" width="1448" height="851" key="SettingsEditor" timestamp="1593107329663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="333" y="117" width="1448" height="851" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593107329663" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588094955744">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1588094955744" />
+    <state x="342" y="160" key="new project wizard" timestamp="1586078903981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586078903981" />
+    <state x="702" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1586209415286">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="159" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1586209415286" />
+    <state x="2536" y="241" key="run.anything.popup" timestamp="1590266883388">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1589038660847" />
+    <state x="2536" y="241" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590266883388" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1593106924525">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1040@0.0.1920.1080" timestamp="1593106924525" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JarApplication">
+        <watch expression="label" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

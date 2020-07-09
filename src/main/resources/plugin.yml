@@ -1,0 +1,11 @@
+name: DRERecipe
+version: 1.5
+author: Fyreum
+main: de.fyreum.drerecipe.DRERecipe
+api-version: 1.13
+prefix: DRERecipe
+website: erethon.de
+
+commands:
+  dr:
+    description: basic command
